@@ -1,0 +1,44 @@
+{
+    "os": "Windows-10-10.0.22631-SP0",
+    "python": "3.9.18",
+    "heartbeatAt": "2024-05-08T10:52:40.388165",
+    "startedAt": "2024-05-08T10:52:39.000120",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/jueun-moon/CoinTrading.git",
+        "commit": "2d75043408b5f4fd628d73778cc6b58da7e12e65"
+    },
+    "email": "moonjueun98@gmail.com",
+    "root": "C:/Users/JooEun Moon/VisualStudioCode/Personal/Trading-Baseline",
+    "host": "KRL0047JOMOON",
+    "username": "JooEun Moon",
+    "executable": "c:\\Users\\JooEun Moon\\anaconda3\\envs\\trading_py64\\python.exe",
+    "cpu_count": 12,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2100.0,
+        "min": 0.0,
+        "max": 2100.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2100.0,
+            "min": 0.0,
+            "max": 2100.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 457.55566024780273,
+            "used": 376.2266731262207
+        }
+    },
+    "memory": {
+        "total": 31.690296173095703
+    }
+}
